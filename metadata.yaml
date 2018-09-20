@@ -1,0 +1,25 @@
+_repo: Leeni-Kertomus_53469
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tihlä, Hilda
+    alias: Tihla, Hilda
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '47390'
+    url: http://www.gutenberg.org/2009/agents/47390
+description: ''
+gutenberg_issued: '2016-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53469'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Leeni: Kertomus'
+url: http://www.gutenberg.org/ebooks/53469
